@@ -9,7 +9,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Make sure roll number should match with the registered roll number
 5. Required attendance minimum **120 minutes out of 180 minutes** session
 
-### Software Installation (Anaconda):
+### Software Installation (Anaconda) and Registration and Course_Content:
 1. Installation of anaconda
     1. [click here to download anaconda](https://www.anaconda.com/products/individual/)
 2. Registarion link for github and python
